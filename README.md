@@ -1,4 +1,10 @@
-## Hi there 👋
+## Rui Qiu 邱瑞 👋
+
+I am currently in my third year of graduate studies in Digital Media Engineering at Shanghai University, advised by Associate Prof. Zhifeng Xie and Associate Researcher Xin Tan. Prior to embarking on my master's degree, I earned a bachelor's degree in Communication Engineering from Shanghai University in 2022. My research interests lie in the areas of computer vision, semantic segmentation, domain adaptation, and incremental learning.
+
+[2024-6-12] I have one paper (PIG: Prompt Images Guidance for Night-Time Scene Parsing) accepted to IEEE Trans. On Image Processing.
+
+[EMAIL](ryan_qiurui@163.com)
 
 <!--
 **qiurui4shu/qiurui4shu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
